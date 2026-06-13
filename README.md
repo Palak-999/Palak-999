@@ -1,6 +1,6 @@
 # Hi, I'm Palak Choudhary 👋
 
-### Aspiring ML Engineer | Python · Machine Learning · AWS · Docker | B.Tech CSE @ Poornima '27
+### AI Intern @ Sysquare | Former Data Science Intern | Generative AI | Machine Learning | Python
 
 ---
 
