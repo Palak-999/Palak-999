@@ -8,7 +8,7 @@
 
 - 🎓 Pursuing B.Tech Computer Science & Engineering 
 - 🤖 Currently building skills in **Machine Learning, Deep Learning, Generative AI, and MLOps**
-- 🌱 Learning **Transformers · LLMs · LangChain · RAG **
+- 🌱 Learning **Transformers · LLMs · LangChain · RAG**
 - 💼 Ex Data Science Trainee @ **REGEX Software Services** — built NLP models & deployed APIs
 - 🏆 Google Cloud **Diamond League** — 13,992 pts | Kalanidhi **Best Project Award**
 - 📍 Jaipur, Rajasthan, India
