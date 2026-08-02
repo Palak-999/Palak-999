@@ -1,6 +1,6 @@
 # Hi, I'm Palak Choudhary 👋
 
-### AI Intern @ Sysquare | Former Data Science Intern | Generative AI | Machine Learning | Python
+### AI Intern @ Sysquare | Former Data Science Trainee @ Regex Software Services | Generative AI | Machine Learning | Python
 
 ---
 
